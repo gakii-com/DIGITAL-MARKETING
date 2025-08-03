@@ -2,8 +2,6 @@
 🌟 Overview
 This is a complete, responsive digital marketing landing page built with HTML5, CSS3, and JavaScript. Designed for marketing agencies or freelancers to showcase services, display testimonials, and capture leads through an interactive contact form.
 
-https://via.placeholder.com/800x500?text=MarketPro+Landing+Page
-
 ✨ Key Features
 🖥️ Responsive Design
 📱 Mobile-first approach with perfect adaptation to all devices
@@ -143,8 +141,6 @@ Firefox	✅ Full
 Safari	✅ Full
 Edge	✅ Full
 iOS	✅ Full
-📜 License
-MIT License - Free for personal and commercial use. Attribution appreciated!
 
 🚀 Future Enhancements
 📝 Blog/News section
